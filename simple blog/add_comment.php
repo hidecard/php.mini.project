@@ -11,7 +11,7 @@ $post_id = $_GET['post_id'];
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Add Comment</title>
+    <title>Add Comment - Blog</title>
 </head>
 <body>
     <h1>Add Comment</h1>

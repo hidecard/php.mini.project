@@ -22,7 +22,7 @@ $total_amount = $total_row['total_amount'] ? $total_row['total_amount'] : 0;
     <title>Expense Tracker</title>
 </head>
 <body>
-    <h1>Expense Tracker</h1>
+    <h1>Expense Tracker With PHP</h1>
     <a href="add_expense.php">Add New Expense</a> | <a href="add_category.php">Add New Category</a> | <a href="logout.php">Logout</a>
     <h2>Your Expenses</h2>
     <table>

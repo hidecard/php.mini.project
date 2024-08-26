@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Add To-Do</title>
+    <title>Add To-Do-List</title>
 </head>
 <body>
     <h1>Add To-Do</h1>

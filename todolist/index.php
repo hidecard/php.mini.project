@@ -9,7 +9,7 @@ $todos = mysqli_fetch_all($result, MYSQLI_ASSOC);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>To-Do List</title>
+    <title>To-Do-List</title>
 </head>
 <body>
     <h1>To-Do List</h1>

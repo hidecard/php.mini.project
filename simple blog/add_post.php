@@ -8,7 +8,7 @@ if (!isset($_SESSION['user_id'])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Add Post</title>
+    <title>Add Post - Blog</title>
 </head>
 <body>
     <h1>Add Post</h1>

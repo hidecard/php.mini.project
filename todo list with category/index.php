@@ -5,7 +5,7 @@ $categories_result = mysqli_query($conn, "SELECT * FROM categories");
 <!DOCTYPE html>
 <html>
 <head>
-    <title>To-Do List</title>
+    <title>To-Do-List</title>
 </head>
 <body>
     <h1>To-Do List</h1>

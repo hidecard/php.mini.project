@@ -6,7 +6,7 @@ $posts_result = mysqli_query($conn, "SELECT posts.*, users.username FROM posts J
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Blog</title>
+    <title>Blog - Home</title>
 </head>
 <body>
     <h1>Blog</h1>
